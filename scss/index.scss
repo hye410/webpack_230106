@@ -1,0 +1,17 @@
+$color-black : #000;
+$color-white : #fff;
+
+body{
+  h1{
+    border : 2px solid $color-white;
+  }
+  h2{
+    color : orange;
+    text-align: center;
+  }
+  p{
+    background-color : $color-black;
+    text-align: center;
+    color : $color-white;
+  }
+}
